@@ -1,2 +1,6 @@
 # Employee-Tracker
-A simple application for a user to see an employee database.
+A simple application for a user to see an employee database. (Work-In-Progress)
+
+
+
+
